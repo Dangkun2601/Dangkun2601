@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+}
+
+.header {
+    color: red;
+    font-size: 30px;
+    border: 20px;
+    padding: 12px;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.list {
+    line-height: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+    margin-left: 38%;
+    margin-right: 38%;
+}
+
+ul li {
+    text-align: center;
+    display: inline;
+    list-style-type: none;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.dangnhap {
+    display: inline;
+    text-align: right;
+    list-style: none;
+    line-height: 20px;
+    text-decoration: none;
+    list-style-type: none;
+}
